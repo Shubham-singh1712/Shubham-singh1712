@@ -18,12 +18,8 @@
 ---
 [![](https://komarev.com/ghpvc/?username=Shubham-singh1712&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
 
-<!--
-**Shubham-singh1712/Shubham-singh1712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
